@@ -1,0 +1,48 @@
+body{
+  background: linear-gradient(to right, #00d2ff, #3a7bd5);
+
+}
+#title{
+  color: mintcream;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 30px;
+}
+.button{
+  border-radius: 15px;
+  height: 35px;
+  width: 70px;
+  background-color: violet;
+  font-size: 15px;
+  color: white;
+}
+#input{
+  display: flex;
+  margin-top: 45px;
+  justify-content: center;
+}
+.inputs{
+  height: 29px;
+  width: 200px;
+  border: 2px solid black;
+}
+.button:hover{
+  background: linear-gradient(to right, #ec008c, #fc6767);
+  color: white;
+}
+#input-date{
+  margin-left: 10px;
+}
+#unorder{
+  display: flex;
+  justify-content: center;
+}
+.updatelist{
+  border: 2px solid black;
+  height: 27px;
+  background-color: white;
+  color: deeppink;
+  text-align: center;
+  font-size: 20px;
+  display: inline-block;
+}
